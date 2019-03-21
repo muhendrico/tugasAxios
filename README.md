@@ -6,18 +6,18 @@ Aplikasi yang saya buat dalam studi kasus ini adalah tentang Data Kelas dan CRUD
 
 File yang ditambah :
 
-KelasForm.vue
-Kelas.vue
-KelasController
-Kelas.php
+1. KelasForm.vue
+2. Kelas.vue
+3. KelasController
+4. Kelas.php
 
 Tampilan awal :
 
-Link Router untuk menambah data kelas
-Tabel Kelas (No, Nama Kelas, Jurusan, Action{Edit, Delete})
+1. Link Router untuk menambah data kelas
+2. Tabel Kelas (No, Nama Kelas, Jurusan, Action{Edit, Delete})
 
 Tampilan Form :
 
-Nama Kelas + TextInput-nya
-Jurusan + TextInput-nya
-Tombol save
+1. Nama Kelas + TextInput-nya
+2. Jurusan + TextInput-nya
+3. Tombol save
